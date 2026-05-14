@@ -107,7 +107,5 @@ Some additional features and improvements that can be added:
 
 ```bash
 ├── customer_churn_prediction.ipynb
-├── app.py
-├── churn_model.pkl
 ├── requirements.txt
 └── README.md
