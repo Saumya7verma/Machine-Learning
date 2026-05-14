@@ -1,36 +1,42 @@
 A Customer Churn Prediction system predicts whether a customer is likely to leave a company/service.
+
 Example:
 A telecom company wants to know which customers may stop using their service.
+
 The model analyzes customer details like:
-monthly charges
-contract type
-internet service
-payment method
-tenure
+- monthly charges
+- contract type
+- internet service
+- payment method
+- tenure
+
 Then predicts:
 Yes → Customer may leave
 No → Customer will stay
+
 This helps companies:
-reduce customer loss
-improve business strategies
-target risky customers with offers
+- reduce customer loss
+- improve business strategies
+- target risky customers with offers
 
 Algorithms Used
+
 1. Random Forest
-Uses many decision trees
-Good accuracy
-Easy to understand
-Shows feature importance
+    - Uses many decision trees
+    - Good accuracy
+    - Easy to understand
+    - Shows feature importance
+
 2. XGBoost
-Advanced boosting algorithm
-Very high performance
-Common in competitions
+    - Advanced boosting algorithm
+    - Very high performance
+    - Common in competitions
 
 
 Extra Things You Can Add Later
-To make project stronger:
-Hyperparameter tuning
-ROC-AUC curve
-Streamlit web app
-Power BI dashboard
-Deployment using Flask
+- To make project stronger:
+- Hyperparameter tuning
+- ROC-AUC curve
+- Streamlit web app
+- Power BI dashboard
+- Deployment using Flask
